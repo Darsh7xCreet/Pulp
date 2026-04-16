@@ -6,7 +6,7 @@ import About from '../pages/About.vue'
 import Products from '../pages/Products.vue'
 import Gallery from '../pages/Gallery.vue'
 import Contact from '../pages/Contact.vue'
-
+import { createRouter, createWebHashHistory } from 'vue-router'
 const routes = [
   {
     path: '/',
@@ -35,12 +35,14 @@ const routes = [
   }
 ]
 
+
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(import.meta.env.BASE_URL),
   routes,
   scrollBehavior() {
     return { top: 0 }
   }
 })
+
 
 export default router
