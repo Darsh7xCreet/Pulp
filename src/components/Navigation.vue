@@ -3,9 +3,7 @@
     <div class="container-lg">
       <div class="navbar-content flex-between">
         <RouterLink to="/" class="logo">
-          <span class="logo-icon">⚙️</span>
-          <span class="logo-text">
-            GOVIND RECYCLERS AND METALLOYS</span>
+          <span class="logo-text">GOVIND RECYCLERS AND METALLOYS</span>
         </RouterLink>
 
         <button class="mobile-menu-btn" @click="toggleMenu" v-if="isMobile">
@@ -72,7 +70,6 @@ export default {
 .logo {
   display: flex;
   align-items: center;
-  gap: 0.8rem;
   font-size: 1.5rem;
   font-weight: 800;
   color: var(--primary-blue);
@@ -81,10 +78,6 @@ export default {
 
 .logo:hover {
   color: var(--accent-blue);
-}
-
-.logo-icon {
-  font-size: 2rem;
 }
 
 .logo-text {
