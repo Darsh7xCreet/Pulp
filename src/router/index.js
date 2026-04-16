@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 
 // Import pages
 import Home from '../pages/Home.vue'
@@ -6,7 +6,6 @@ import About from '../pages/About.vue'
 import Products from '../pages/Products.vue'
 import Gallery from '../pages/Gallery.vue'
 import Contact from '../pages/Contact.vue'
-import { createRouter, createWebHashHistory } from 'vue-router'
 const routes = [
   {
     path: '/',
