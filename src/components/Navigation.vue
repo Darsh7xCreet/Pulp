@@ -4,7 +4,7 @@
       <div class="navbar-content flex-between">
         <RouterLink to="/" class="logo">
           <span class="logo-icon">⚙️</span>
-          <span class="logo-text">Govind
+          <span class="logo-text">
             GOVIND RECYCLERS AND METALLOYS</span>
         </RouterLink>
 
