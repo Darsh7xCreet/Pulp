@@ -4,7 +4,8 @@
       <div class="navbar-content flex-between">
         <RouterLink to="/" class="logo">
           <span class="logo-icon">⚙️</span>
-          <span class="logo-text">Govind Metalloys</span>
+          <span class="logo-text">Govind
+            GOVIND RECYCLERS AND METALLOYS</span>
         </RouterLink>
 
         <button class="mobile-menu-btn" @click="toggleMenu" v-if="isMobile">
