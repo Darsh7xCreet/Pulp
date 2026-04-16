@@ -273,7 +273,7 @@ Final checklist before going live:
 
 ## 🎉 You're Ready!
 
-Your professional Govind Metalloys website is complete and ready to launch! 
+Your professional GOVIND RECYCLERS AND METALLOYS website is complete and ready to launch! 
 
 ### Next Steps:
 1. Follow deployment guide above

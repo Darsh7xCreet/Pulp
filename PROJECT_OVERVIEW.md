@@ -1,4 +1,4 @@
-# 🚀 PROJECT COMPLETE - Govind Metalloys Website
+# 🚀 PROJECT COMPLETE - GOVIND RECYCLERS AND METALLOYS Website
 
 ## ✅ What Has Been Created
 
@@ -429,7 +429,7 @@ npm install
 npm run dev
 ```
 
-Enjoy your professional Govind Metalloys website! 🚀
+Enjoy your professional GOVIND RECYCLERS AND METALLOYS website! 🚀
 
 ---
 

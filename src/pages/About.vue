@@ -3,7 +3,7 @@
     <!-- Page Hero -->
     <section class="page-hero">
       <div class="container-lg">
-        <h1>About Govind Metalloys</h1>
+        <h1>About GOVIND RECYCLERS AND METALLOYS</h1>
         <p>20+ Years of Excellence in Aluminum Alloy Manufacturing</p>
       </div>
     </section>

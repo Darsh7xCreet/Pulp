@@ -1,4 +1,4 @@
-# Setup Guide - Govind Metalloys Website
+# Setup Guide - GOVIND RECYCLERS AND METALLOYS Website
 
 ## 📋 Quick Start (5 minutes)
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 # Quick Start Script for Development
 echo "================================"
-echo "Govind Metalloys Website"
+echo "GOVIND RECYCLERS AND METALLOYS Website"
 echo "Quick Start Script"
 echo "================================"
 echo ""

@@ -55,7 +55,7 @@
     <!-- Features Section -->
     <section class="section section-bg-light">
       <div class="container-lg">
-        <h2 class="text-center mb-5">Why Choose Govind Metalloys?</h2>
+        <h2 class="text-center mb-5">Why Choose GOVIND RECYCLERS AND METALLOYS?</h2>
         <div class="grid grid-3">
           <div class="feature-card">
             <div class="feature-icon">🔬</div>

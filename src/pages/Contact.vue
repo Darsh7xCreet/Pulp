@@ -152,7 +152,7 @@
                   type="checkbox"
                   required
                 >
-                <span>I agree to be contacted and share my information with Govind Metalloys</span>
+                <span>I agree to be contacted and share my information with GOVIND RECYCLERS AND METALLOYS</span>
               </label>
               <span v-if="errors.agreeTerms" class="error-message">{{ errors.agreeTerms }}</span>
             </div>

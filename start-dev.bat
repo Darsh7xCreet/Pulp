@@ -1,10 +1,10 @@
 @echo off
 REM Quick Start Script for Windows
-REM Govind Metalloys Website Development
+REM GOVIND RECYCLERS AND METALLOYS Website Development
 
 cls
 echo ================================
-echo Govind Metalloys Website
+echo GOVIND RECYCLERS AND METALLOYS Website
 echo Quick Start Script (Windows)
 echo ================================
 echo.

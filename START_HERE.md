@@ -222,7 +222,7 @@ npm install
 
 ### Change Company Name
 1. Open `src/components/Navigation.vue`
-2. Find: `<span class="logo-text">Govind Metalloys</span>`
+2. Find: `<span class="logo-text">GOVIND RECYCLERS AND METALLOYS</span>`
 3. Replace with your name
 
 ### Update Phone Number
@@ -413,7 +413,7 @@ npm run dev -- --port 3000
 
 ## 🎉 You're Ready!
 
-Your professional Govind Metalloys website is:
+Your professional GOVIND RECYCLERS AND METALLOYS website is:
 - ✅ Fully built
 - ✅ Fully functional
 - ✅ Professionally designed
